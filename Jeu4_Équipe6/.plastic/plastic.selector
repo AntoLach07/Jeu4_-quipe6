@@ -1,0 +1,4 @@
+repository "Jeu4_Équipe6@Equipe_6_Jeu4@cloud"
+  path "/"
+    br "/main"
+    co "/main"
